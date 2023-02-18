@@ -11,9 +11,6 @@ TECHNOLOGIES USED
 3. Elastic search
 4. Python
 
-![image](https://user-images.githubusercontent.com/112975877/219832550-7e6fe002-5122-462d-bcd5-49a47f1d6648.png)
-
-
 FUTURE SCOPE
 The model has a huge scope of expansion.
 In terms of technology, it could be done as follows:
